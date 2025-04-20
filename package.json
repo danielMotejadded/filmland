@@ -1,5 +1,6 @@
 {
   "name": "filmland",
+  "homepage": "https://danielMotejadded.github.io/filmland",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
