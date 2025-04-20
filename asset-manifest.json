@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/filmland/static/css/main.2b84f94c.chunk.css",
+    "main.js": "/filmland/static/js/main.26fd3d03.chunk.js",
+    "main.js.map": "/filmland/static/js/main.26fd3d03.chunk.js.map",
+    "runtime-main.js": "/filmland/static/js/runtime-main.97a86971.js",
+    "runtime-main.js.map": "/filmland/static/js/runtime-main.97a86971.js.map",
+    "static/js/2.7ec5e050.chunk.js": "/filmland/static/js/2.7ec5e050.chunk.js",
+    "static/js/2.7ec5e050.chunk.js.map": "/filmland/static/js/2.7ec5e050.chunk.js.map",
+    "index.html": "/filmland/index.html",
+    "precache-manifest.ecdc8ddec7cc8f7652e6e8792535bb15.js": "/filmland/precache-manifest.ecdc8ddec7cc8f7652e6e8792535bb15.js",
+    "service-worker.js": "/filmland/service-worker.js",
+    "static/css/main.2b84f94c.chunk.css.map": "/filmland/static/css/main.2b84f94c.chunk.css.map",
+    "static/js/2.7ec5e050.chunk.js.LICENSE.txt": "/filmland/static/js/2.7ec5e050.chunk.js.LICENSE.txt",
+    "static/media/search.svg": "/filmland/static/media/search.095eeb86.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97a86971.js",
+    "static/js/2.7ec5e050.chunk.js",
+    "static/css/main.2b84f94c.chunk.css",
+    "static/js/main.26fd3d03.chunk.js"
+  ]
+}
