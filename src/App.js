@@ -6,9 +6,7 @@ import React from "react";
 
 const API_URL = "https://www.omdbapi.com?apikey=cf501533";
 
-
-
-function App() {github
+function App() {
   const [movies, setMovies] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
 
@@ -33,7 +31,11 @@ function App() {github
           onChange={(e) => setSearchTerm(e.target.value)}
         />
 
-        <img src={SearchIcon} alt="search" onClick={() => searchMovies(searchTerm)} />
+        <img
+          src={SearchIcon}
+          alt="search"
+          onClick={() => searchMovies(searchTerm)}
+        />
       </div>
 
       {movies?.length > 0 ? (
